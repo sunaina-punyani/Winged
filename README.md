@@ -26,3 +26,8 @@ The attack by investors to get majority of tokens is also counterchecked  by kee
 <li>
 We have Incorporated functionalities to tokenize multiple assets, transferring of ownership and provision of changing the token price by the owner.
 </li>
+
+## Contributers
+* Sunaina Punyani - [sunaina25](https://github.com/sunaina25)
+* Priya Nayak - [pia-nyk](https://github.com/pia-nyk)
+* Deep Kawa - [Deepkawa](https://github.com/Deepkawa)
